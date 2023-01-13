@@ -6,7 +6,7 @@ Some slides to introduce the topic :
 
 First notebook to get familiar with cloud data, xarray and dask : 
 
-Computation of spectrum : Spectra-eNATL60.ipynb
+Computation of spectrum : [Spectra-eNATL60.ipynb](Spectra-eNATL60.ipynb)
 
-Filtering the data : Filter-eNATL60.ipynb
+Filtering the data : [Filter-eNATL60.ipynb](Filter-eNATL60.ipynb)
 
